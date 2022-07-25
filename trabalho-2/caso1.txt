@@ -1,0 +1,32 @@
+Tempo decorrido: 71 centesimos de segundos
+Tabuleiro inicial:
+7 2 1 
+3 4 8 
+6   5 
+
+Movimentos
+Linha: 1 - Coluna: 1
+Linha: 0 - Coluna: 1
+Linha: 0 - Coluna: 0
+Linha: 1 - Coluna: 0
+Linha: 1 - Coluna: 1
+Linha: 0 - Coluna: 1
+Linha: 0 - Coluna: 2
+Linha: 1 - Coluna: 2
+Linha: 1 - Coluna: 1
+Linha: 0 - Coluna: 1
+Linha: 0 - Coluna: 0
+Linha: 1 - Coluna: 0
+Linha: 1 - Coluna: 1
+Linha: 2 - Coluna: 1
+Linha: 2 - Coluna: 2
+Linha: 1 - Coluna: 2
+Linha: 0 - Coluna: 2
+Linha: 0 - Coluna: 1
+Linha: 0 - Coluna: 0
+Linha: 1 - Coluna: 0
+Linha: 1 - Coluna: 1
+Linha: 2 - Coluna: 1
+Linha: 2 - Coluna: 2
+Linha: 1 - Coluna: 2
+Linha: 1 - Coluna: 1

@@ -96,10 +96,10 @@ class AEstrelaImp(AEstrela):
                             steps.append(curr.qc.getPosVazio())
                             curr = curr.parent
                         
-                        return steps[::-1]
+                        return steps[::-1][1:]
                     
                     # Senão adiciona o próximo elemento (com peso definido pelo F(x) = g(x) + 1 + h(x))
                     p_queue.heappush(queue,(curr.g + 1 + next_qc.getValor(), GameState(next_qc, curr, curr.g+1)))
 
-        # Se não tiver solução retorna um movimento inválido
-        return [Posicao(-1, -1)]
+        # Se não tiver solução retorna uma exceção
+        raise Exception('Erro: O quebra cabeca nao possui solucao.')
